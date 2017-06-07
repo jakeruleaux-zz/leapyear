@@ -10,28 +10,40 @@ _{Will calculate whether or not an entered year will be a leap year. }_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone "leap-year3 from github repo_
+* _launch in atom to modify css, html, js_
+* _download bootstrap and jquery and to atom files_
+* _type open index.html to view in browser_
+* __
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+## Specifications from Leap Year Project
+  * The program should return when a year is not a leap year.
+    - Input Example: 1993
+    - Output Example: false
+  * The program should return 'true' for years divisible by 4, since those are leap years.
+    - Input Example: 2004
+    - Output Example: true
+  * This program should return 'false' for years divisible by 100, since those are not leap years.
+    - Input Example: 1900
+    - Output Example: false
+  * The program should return 'true' for years divisible by 400, since those are leap years.
+    - Input Example: 2000
+    - Output Example: true
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{Make sure the your jquery script src in header is congruent with the version you downloaded. make sure to download and copy the bootstrap css version into your directory }_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{Please email author at email@address.com with any questions or issues.}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{HTML, CSS, Jquery, Bootstrap, Javascript.}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{MIT.}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_{Rena Rallis Jacob Ruleaux}_**
